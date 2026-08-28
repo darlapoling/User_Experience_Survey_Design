@@ -18,7 +18,7 @@ User experience of a specific trail.
 |3|I had the opportunity to explore outlook locations to enjoy the cliff edges. |Categorical |Yes/No | 
 |4|If I crossed a stream, there were stepping stones or the trail was raised to avoid mud. | Categorical| Yes/No | 
 |5|I experienced excessively thick vegetation. | Categorical | Yes/No | 
-|6|I saw points of interest: bluffs of sandstone or limestone, ponds or lakes, cascades or waterfalls, historic and cultural features, and/or large or interesting trees. |Categorical |Yes/No | 
+|6|I saw points of interest: bluffs of sandstone or limestone, ponds or lakes, cascades or waterfalls, historic and cultural features, and/or large or interesting trees. |Categorical |bluff | 
 |7|I experienced problem areas: active farmland, old home sites with wells or cisterns, construction problem areas that include very rocky or steep slopes, wetlands or swampy areas, areas of exotic invasive vegetation such as privet or multiflora rose thickets, going within 25’ from the edge of a stream, or going within 100 feet of a private property boundary.|Categorical |Yes/No | 
 |8|Trail gently curved rather than being long and straight. |Categorical |Likert | 
 |9|Before bluffs or cliff edges I saw a warning sign near the overlook. |Categorical |Likert | 
@@ -37,14 +37,15 @@ User experience of a specific trail.
 
 ## Any other questions to identify subgroups?
 
-|Question|Quantitative or Categorical| Expected Data Type|
-|---|---|---|
-|How many times per month do you hike, on average? |  | Less than 1/1-2/2-4/4-8/8+|
-|Did you go on the trail for the purpose of hunting? | Categorical | Yes/No|
-|What method did you use to take the trail? Bicycle/Horse/Hiking | Categorical | Bicycle/horse/Hiking|
-|Was your hike a short hike (less than one hour)? | Categorical | Yes/No |
+|Question #| Question | Quantitative or Categorical| Expected Data Type|
+|---|---|---|---|
+|12|How many times per month do you hike, on average? |  | Less than 1/1-2/2-4/4-8/8+|
+|12|Did you go on the trail for the purpose of hunting? | Categorical | Yes/No|
+|14|What method did you use to take the trail? Bicycle/Horse/Hiking | Categorical | Bicycle/horse/Hiking|
+|15|Was your hike a short hike (less than one hour)? | Categorical | Yes/No |
 | | | |
 
 ## Final Notes:
-- The questions should be made to be atomic, representing just one question at a time.
+- The questions should be made to be atomic, representing just one question at a time, especially for questions 6 and 7.
+  - But this would significantly increase the number of questions for what is essentially one question: for question 6, were there points of interest seen? Ultimately, I think the data should be collected as a categorical multiple choice answer, with each point of interest as a potential answer and multiple answers allowed.
 - The Likert scale will be used for many questions, because these have to do with subjectives attitudes and perceptions of traits of the trail.
