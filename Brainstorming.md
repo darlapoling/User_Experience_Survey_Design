@@ -10,7 +10,7 @@ User experience of a specific trail.
 - scenic opportunities and points of interest
 - detailed demographic data for sub-groups listed below to account for bias
 
-
+### Questions
 |Question|Quantitative or Categorical| Expected Data Type|
 |---|---|---|
 |Did you have to re-route during your trip? | Categorical| Yes/No | 
@@ -27,10 +27,13 @@ User experience of a specific trail.
 
 ## What grouped samples would be explored separately? 
 - Hikers who hike casually versus those who hike more regularly.
-  - The two groups may have different knowledges and perspectives on opportunities and risks. For example, an experienced hiker may find an upcoming cliff edge obvious but not to a casual hiker.)
-- Hunters and non-hunters. (The two groups would be using the trails for different purposes and may have different biases as to what they are looking for from the trail. A hunter may be looking for heavily forested areas to stay hidden in, while a non-hunter may be looking for scenic views.)
-- Cyclists, horse-riders, and pedestrians. (These groups will be moving at different speeds and will be paying attention to different things. A cyclist may pay more attention to the grade of the trail, a horse-rider to the vegetation and possibility of mud, and a pedestrian to the views and points of interest.)
-- People who took short hikes, less than or equal to one hour, and people who took longer hikes than an hour. (These two groups may have gone different distances on the trail. Additionally, the group with shorter time may be biased in some ways, revealing trends in the data. For example, if the shorter timed hikers tend to complain about thick vegetation, that might indicate a correlation between thick vegetation and hikers leaving the trail early. This would also impact the data collected for points of interests or risks on the trail that are further along.)
+  - The two groups may have different knowledges and perspectives on opportunities and risks. For example, an experienced hiker may find an upcoming cliff edge obvious but not to a casual hiker.
+- Hunters and non-hunters.
+  - The two groups would be using the trails for different purposes and may have different biases as to what they are looking for from the trail. A hunter may be looking for heavily forested areas to stay hidden in, while a non-hunter may be looking for scenic views.
+- Cyclists, horse-riders, and pedestrians.
+  - These groups will be moving at different speeds and will be paying attention to different things. A cyclist may pay more attention to the grade of the trail, a horse-rider to the vegetation and possibility of mud, and a pedestrian to the views and points of interest.
+- People who took short hikes, less than or equal to one hour, and people who took longer hikes than an hour.
+  - These two groups may have gone different distances on the trail. Additionally, the group with shorter time may be biased in some ways, revealing trends in the data. For example, if the shorter timed hikers tend to complain about thick vegetation, that might indicate a correlation between thick vegetation and hikers leaving the trail early. This would also impact the data collected for points of interests or risks on the trail that are further along.
 
 ## Any other questions to identify subgroups?
 
@@ -41,3 +44,5 @@ User experience of a specific trail.
 |What method did you use to take the trail? Bicycle/Horse/Hiking | Categorical | Bicycle/horse/Hiking|
 |Was your hike a short hike (less than one hour)? | Categorical | Yes/No |
 | | | |
+
+** Final Notes
