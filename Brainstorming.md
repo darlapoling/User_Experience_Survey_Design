@@ -11,19 +11,19 @@ User experience of a specific trail.
 - detailed demographic data for sub-groups listed below to account for bias
 
 ### Questions
-|Question|Quantitative or Categorical| Expected Data Type|
-|---|---|---|
-|Did you have to re-route during your trip? | Categorical| Yes/No | 
-|I felt protected from the edges of cliffs. | Categorical | Yes/No |
-|I had the opportunity to explore outlook locations to enjoy the cliff edges. | | | 
-|If I crossed a stream, there were stepping stones or the trail was raised to avoid mud. | Categorical| Yes/No | 
-|I experienced excessively thick vegetation. | Categorical | Yes/No | 
-|I saw points of interest: bluffs of sandstone or limestone, ponds or lakes, cascades or waterfalls, historic and cultural features, and/or large or interesting trees. | | | 
-|I experienced problem areas: active farmland, old home sites with wells or cisterns, construction problem areas that include very rocky or steep slopes, wetlands or swampy areas, areas of exotic invasive vegetation such as privet or multiflora rose thickets, going within 25’ from the edge of a stream, or going within 100 feet of a private property boundary.| | | 
-|Trail gently curved rather than being long and straight. | | | 
-|Before bluffs or cliff edges I saw a warning sign near the overlook. | | | 
-|The trail did not go alongside trails meant for motorized vehicles. | | | 
-|I experienced scenic outlooks. | | | 
+| Question #|Question|Quantitative or Categorical| Expected Data Type|
+|---|---|---|---|
+|1|Did you have to re-route during your trip? | Categorical| Yes/No | 
+|2|I felt protected from the edges of cliffs. | Categorical | Yes/No |
+|3|I had the opportunity to explore outlook locations to enjoy the cliff edges. |Categorical |Yes/No | 
+|4|If I crossed a stream, there were stepping stones or the trail was raised to avoid mud. | Categorical| Yes/No | 
+|5|I experienced excessively thick vegetation. | Categorical | Yes/No | 
+|6|I saw points of interest: bluffs of sandstone or limestone, ponds or lakes, cascades or waterfalls, historic and cultural features, and/or large or interesting trees. |Categorical |Yes/No | 
+|7|I experienced problem areas: active farmland, old home sites with wells or cisterns, construction problem areas that include very rocky or steep slopes, wetlands or swampy areas, areas of exotic invasive vegetation such as privet or multiflora rose thickets, going within 25’ from the edge of a stream, or going within 100 feet of a private property boundary.|Categorical |Yes/No | 
+|8|Trail gently curved rather than being long and straight. |Categorical |Likert | 
+|9|Before bluffs or cliff edges I saw a warning sign near the overlook. |Categorical |Likert | 
+|10|The trail did not go alongside trails meant for motorized vehicles. |Categorical |Likert | 
+|11|I experienced scenic outlooks. |Categorical |Likert | 
 
 ## What grouped samples would be explored separately? 
 - Hikers who hike casually versus those who hike more regularly.
@@ -45,4 +45,6 @@ User experience of a specific trail.
 |Was your hike a short hike (less than one hour)? | Categorical | Yes/No |
 | | | |
 
-** Final Notes
+## Final Notes:
+- The questions should be made to be atomic, representing just one question at a time.
+- The Likert scale will be used for many questions, because these have to do with subjectives attitudes and perceptions of traits of the trail.
