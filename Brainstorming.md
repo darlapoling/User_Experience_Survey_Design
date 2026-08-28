@@ -49,3 +49,4 @@ User experience of a specific trail.
 - The questions should be made to be atomic, representing just one question at a time, especially for questions 6 and 7.
   - But this would significantly increase the number of questions for what is essentially one question: for question 6, were there points of interest seen? Ultimately, I think the data should be collected as a categorical multiple choice answer, with each point of interest as a potential answer and multiple answers allowed.
 - The Likert scale will be used for many questions, because these have to do with subjectives attitudes and perceptions of traits of the trail.
+- I used the following link for information on standard demongraphic data to collect: https://toolkit.ncats.nih.gov/glossary/demographic-data/
